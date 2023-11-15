@@ -1,8 +1,7 @@
-# React + Vite
+# DPP-Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instructions
+- Clone the repo using `git clone https://github.com/rahbar12/DPP-Frontend.git`
+- Install the dependencies using `npm install`
+- Open ".env.local" file and edit the database details according to your db
+- Use `npm run dev` to start the server in developement mode
